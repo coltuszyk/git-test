@@ -1,1 +1,1 @@
-# git-test
+# lista zakupów
